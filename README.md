@@ -14,7 +14,7 @@ An e-commerce product listing application built with React + Vite + Tailwind CSS
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Nisarg0609/Flipzon.git)
 cd leegality-assessment
 
 # Install dependencies
